@@ -1,2 +1,3 @@
-# indecision-app
-Simple App made with react that decides what you gonna do with your life.
+# React BoilerPlate
+
+React 16 and webpack 3 boiler plate
